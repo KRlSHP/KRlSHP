@@ -5,7 +5,7 @@ My name is Krish Patel, welcome to my page!
 I'm a machine learning focused developer from Ontario, Canada.
 
 - 🔭 I’m currently working on a 2D platformer game written in C++ from scratch
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning scikit
 - ⚡ Fun fact: I daily drive linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-patel-ml)
